@@ -1,8 +1,8 @@
 # 💫 About Me:
 🚀 Hey there, fellow code wanderer! I'm Priyanka <br>
-🔭 I’m currently pursueing Bachelors in Artificial Intelligencce and Data Science<br>👯 I’m looking to collaborate on  projects with various domains<br>🤝 I’m looking for help with<br>🌱 I’m currently exploring data science <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I completed my  Bachelors in Artificial Intelligence and Data Science<br>👯 I’m looking to collaborate on  projects with various domains<br>🤝 I’m looking for help with<br>🌱 I’m currently exploring data science <br>⚡ Fun fact
 
-# Connect with me 
+ 
 
 
 # 💻 Tech Stack:
